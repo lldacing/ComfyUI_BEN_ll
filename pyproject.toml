@@ -1,5 +1,5 @@
 [project]
-name = "ComfyUI_BEN_ll"
+name = "comfyui_ben_ll"
 description = "Background removal based on BEN。. NODES:LoadRembgByBenModel, RembgByBen."
 version = "1.0.0"
 license = {file = "LICENSE"}
