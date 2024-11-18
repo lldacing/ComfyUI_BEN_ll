@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI_BEN_ll"
+description = "Background removal based on BEN。. NODES:LoadRembgByBenModel, RembgByBen."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["timm", "packaging"]
+
+[project.urls]
+Repository = "https://github.com/lldacing/ComfyUI_BEN_ll"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "lldacing"
+DisplayName = "ComfyUI_BEN_ll"
+Icon = ""
