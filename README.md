@@ -2,8 +2,8 @@
 
 BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image.
 
-## Preview
-![save api extended](doc/base.png)
+## Preview (Image embedded workflow)
+![save api extended](example/workflow_base.png)
 
 ## Install
 
@@ -17,8 +17,8 @@ BEN is a deep learning model designed to automatically remove backgrounds from i
 ```
     
 
-## Model
-Download from [HuggingFace](https://huggingface.co/PramaLLC/BEN/resolve/main/BEN_Base.pth?download=true) and put it in `ComfyUI/models/rembg/ben/`
+## Models
+Download [BEN](https://huggingface.co/PramaLLC/BEN/resolve/main/BEN_Base.pth?download=true) or [BEN2](https://huggingface.co/PramaLLC/BEN2/resolve/main/BEN2_Base.pth?download=true) from HuggingFace and put it in `ComfyUI/models/rembg/ben/`
 
 
 ## Thanks
