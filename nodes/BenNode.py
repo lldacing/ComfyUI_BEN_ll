@@ -292,7 +292,7 @@ NODE_CLASS_MAPPINGS = {
     "RembgByBen": RembgByBen,
     "GetMaskByBen": GetMaskByBen,
     "RembgByBenAdvanced": RembgByBenAdvanced,
-    "BlurFusionForegroundEstimation": BlurFusionForegroundEstimation,
+    "BlurFusionForegroundEstimationForBen": BlurFusionForegroundEstimation,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
@@ -300,5 +300,5 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "RembgByBen": "RembgByBen",
     "GetMaskByBen": "GetMaskByBen",
     "RembgByBenAdvanced": "RembgByBenAdvanced",
-    "BlurFusionForegroundEstimation": "BlurFusionForegroundEstimation",
+    "BlurFusionForegroundEstimationForBen": "BlurFusionForegroundEstimationForBen",
 }
