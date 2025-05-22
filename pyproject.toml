@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_ben_ll"
 description = "Background removal based on BEN. NODES:LoadRembgByBenModel, RembgByBen, GetMaskByBen, RembgByBenAdvanced, BlurFusionForegroundEstimation."
-version = "1.0.1"
+version = "1.0.2"
 license = {file = "LICENSE"}
 dependencies = ["timm", "packaging"]
 
